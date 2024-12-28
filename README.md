@@ -1,6 +1,7 @@
 # React Invoice Generator
 
 React Invoice Generator allows you quickly make invoices and save them as PDF.
+the deployed site is https://react-invoice-zeta.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
